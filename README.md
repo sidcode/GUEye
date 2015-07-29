@@ -3,6 +3,8 @@
 A hobby project built in one evening for **Project Presentation: Prototype** in BITS Pilani's techfest - [APOGEE](http://bits-apogee.org/). This project makes use of  Edwin Dalmaijer's excellent ```webcam-eyetracker```
 [software](https://github.com/esdalmaijer/webcam-eyetracker) in addition to mechanization using Selenium and AutoPy to provide a hands-free Natural User Interface for the popular operating systems which support Python. This has been tested to work on Arch Linux and Ubuntu 14.10.
 
+Contributors: Siddhant Shrivastava, Karan Katyal, Girish Rathi
+
 GUEye was released under the GNU Public License (version 3), of which you
 should have received a copy of together with the software:
 
